@@ -14,7 +14,7 @@ This is a simple web scraping project built using `BeautifulSoup4 (bs4)` in 3 mi
     ```
 2. Run the script:
     ```bash
-    python scraper.py
+    python scrap.py
     ```
 
 ## Output
